@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+*.egg-info/
+*.zip
+*.tmp.*
+.env
+.env.*
+*.log
+.DS_Store
+/ci-*.json
